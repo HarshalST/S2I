@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My First PHP Page</h1>
+<h1>My Second PHP Page</h1>
 
 <?php
 echo "Hello LinkedIn family! This is Harshal";
